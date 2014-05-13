@@ -6,9 +6,8 @@ This is a repository for annotation data for the THYME Project, a clinical natur
 ## Release Schedule
 
 Because the THYME data will be used in an upcoming SemEval Task, the data will be released in stages.  
+
 1. TACL Subset Release - Summer 2014
-2. (To be determined)
-3. (To be determined)
 
 ## About the THYME Data
 
@@ -40,15 +39,21 @@ Styler, William; Bethard, Steven; Finan, Sean; Palmer, Martha; Pradhan, Sameer; 
 
 The annotations in the THYME Corpus were created by annotators and adjudicators at the University of Colorado at Boulder, as well as at Boston's Harvard Children's Medical Center.  There are three different annotation types in our corpus.
 
-**THYME Temporal Entity and Relation Annotations** label spans as EVENTs, TIMEX3s, DOCTIME or SECTIONTIME, and then link them temporally using TLINKs and ALINKs.  Our annotation schema is derived from ISO-TimeML, with variations as described in [*Temporal Annotation in the Clinical Domain*](http://www.transacl.org/wp-content/uploads/2014/04/47.pdf), and is fully described in [The THYME Annotation Guidelines](http://clear.colorado.edu/compsem/documents/THYME%20Guidelines.pdf).   
+#### THYME Temporal Entity and Relation Annotations
+
+These annotations label spans as EVENTs, TIMEX3s, DOCTIME or SECTIONTIME, and then link them temporally using TLINKs and ALINKs.  Our annotation schema is derived from ISO-TimeML, with variations as described in [*Temporal Annotation in the Clinical Domain*](http://www.transacl.org/wp-content/uploads/2014/04/47.pdf), and is fully described in [The THYME Annotation Guidelines](http://clear.colorado.edu/compsem/documents/THYME%20Guidelines.pdf).   
 
 For Clinical (_CLIN) and Radiology (_RAD) notes in both corpora, the Gold Standard notes have been double-annotated for temporal entities (EVENT, TIMEX3, DOCTIME,SECTIONTIME), adjudicated, and then double-annotated for relations (TLINK, ALINK) and adjudicated.   The .gold.xml files for clinical and radiology notes are fully annotated.  
 
 The Pathology (_PATH) notes, because of their temporally-sparse nature, were not given later relations annotation, and thus, only provide information about temporal entities.
 
-In addition, for many of the notes, we will have adjudicated **Coreference Annotations** posted as well, serving to mark Anaphora throughout the document, alongside a limited number of bridging relations (like SET/SUBSET or PART/WHOLE).   
+#### Coreference Annotations
 
-Finally, a subset of the notes will have **UMLS Named Entity** tags assigned as well, in a separate XML file.  These tags mark clinical entities and events with their UMLS semantic groups ("hemicolectomy" is marked as a 'procedure', and "fever" is a 'sign/symptom').  Due to limitations in manpower, only a small portion of the corpus was fully annotated for UMLS.
+In addition, for many of the notes, we will have adjudicated Coreference Annotations posted, serving to mark Anaphora throughout the document, alongside a limited number of bridging relations (like SET/SUBSET or PART/WHOLE).   
+
+#### UMLS Named Entity Annotations
+
+Finally, a subset of the notes will have UMLS Named Entity tags assigned as well, in a separate XML file.  These tags mark clinical entities and events with their UMLS semantic groups ("hemicolectomy" is marked as a 'procedure', and "fever" is a 'sign/symptom').  Due to limitations in manpower, only a small portion of the corpus was fully annotated for UMLS.
 
 ### Annotation Format
 <a name="format"/>
