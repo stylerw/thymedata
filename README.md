@@ -7,7 +7,8 @@ This is a repository for annotation data for the THYME Project, a clinical natur
 
 Because the THYME data will be used in an upcoming SemEval Task, the data will be released in stages.  
 
-1. TACL Subset Release - Summer 2014
+1. TACL Train Subset Release - 5/13/2014 - Colon Cancer Notes only.  Dev subset will be released with SemEval data.
+2. SemEval Releases - To Be Determined
 
 ## About the THYME Data
 
@@ -43,9 +44,9 @@ The annotations in the THYME Corpus were created by annotators and adjudicators 
 
 These annotations label spans as EVENTs, TIMEX3s, DOCTIME or SECTIONTIME, and then link them temporally using TLINKs and ALINKs.  Our annotation schema is derived from ISO-TimeML, with variations as described in [*Temporal Annotation in the Clinical Domain*](http://www.transacl.org/wp-content/uploads/2014/04/47.pdf), and is fully described in [The THYME Annotation Guidelines](http://clear.colorado.edu/compsem/documents/THYME%20Guidelines.pdf).   
 
-For Clinical (_CLIN) and Radiology (_RAD) notes in both corpora, the Gold Standard notes have been double-annotated for temporal entities (EVENT, TIMEX3, DOCTIME,SECTIONTIME), adjudicated, and then double-annotated for relations (TLINK, ALINK) and adjudicated.   The .gold.xml files for clinical and radiology notes are fully annotated.  
+For Clinical (_CLIN) and Radiology (_RAD) notes in both corpora, the Gold Standard notes have been double-annotated for temporal entities (EVENT, TIMEX3, DOCTIME,SECTIONTIME), adjudicated, and then double-annotated for relations (TLINK, ALINK) and adjudicated.   The .Gold_Temporal_Relation.xml files for clinical and radiology notes are fully annotated.  
 
-The Pathology (_PATH) notes, because of their temporally-sparse nature, were not given later relations annotation, and thus, only provide information about temporal entities.
+The Pathology (_PATH) notes, because of their temporally-sparse nature, were not given later relations annotation.  Thus, the .Gold_Temporal_Entities.xml files only provide information about temporal entities.  
 
 #### Coreference Annotations
 
@@ -60,4 +61,4 @@ Finally, a subset of the notes will have UMLS Named Entity tags assigned as well
 
 All data are provided in the AnaforaXML format, created by (and designed to be read in) the [Anafora Annotation Tool](https://github.com/weitechen/anafora).  The XML data format aims to be both easily human-readable and easy-to-use.
 
-Each XML file should be read with its labeled source text file (so doc0002_CLIN.Temporal-Relation.gold.completed.xml would be read with doc0002_CLIN.txt).  Please be cautious to avoid changing the line endings of the source text file, as this may change the offsets.
+Each XML file should be read with its labeled source text file (so doc0002_CLIN.Gold_Temporal_Relation.xml would be read with doc0002_CLIN.txt).  Please be cautious to avoid changing the line endings of the source text file, as this may change the offsets.
