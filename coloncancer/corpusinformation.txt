@@ -1,0 +1,7 @@
+## The Colon Cancer Corpus
+
+This corpus is organized by documents, named in the format:
+
+[patientID]_[type]_[sequencenum]
+
+Where the patient ID is an arbitrary 3 digit code, the type designates whether the note is a clinical note ("_clinic_") or a pathology note ("_path_"), and the sequence number simply orders the documents within the corpus.

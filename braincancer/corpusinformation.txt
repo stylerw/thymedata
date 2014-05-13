@@ -1,0 +1,8 @@
+## The Brain Cancer Corpus
+
+This corpus is organized by documents, named in the format:
+
+[patientID]_[type]
+
+Where the patient ID is an arbitrary 4 digit code representing the patient, and the type designates whether the note is a clinical note ("_CLIN"), a pathology note ("_PATH"), or a radiology note ("_RAD").
+
