@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>12:37:57 28-01-2014</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>55@e@ID059_path_174@gold</id>
+		<span>111,123</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>56@e@ID059_path_174@gold</id>
+		<span>141,205;220,334</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>57@e@ID059_path_174@gold</id>
+		<span>228,334</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>58@e@ID059_path_174@gold</id>
+		<span>276,295</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>59@e@ID059_path_174@gold</id>
+		<span>309,334</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>60@e@ID059_path_174@gold</id>
+		<span>337,346</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>61@e@ID059_path_174@gold</id>
+		<span>415,445</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>62@e@ID059_path_174@gold</id>
+		<span>485,525</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>63@e@ID059_path_174@gold</id>
+		<span>571,622</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>64@e@ID059_path_174@gold</id>
+		<span>678,683;704,708</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>65@e@ID059_path_174@gold</id>
+		<span>734,748</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>66@e@ID059_path_174@gold</id>
+		<span>755,793</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>67@e@ID059_path_174@gold</id>
+		<span>796,819</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>68@e@ID059_path_174@gold</id>
+		<span>859,871</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>69@e@ID059_path_174@gold</id>
+		<span>888,900</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>70@e@ID059_path_174@gold</id>
+		<span>1072,1087</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>71@e@ID059_path_174@gold</id>
+		<span>1428,1544</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>72@e@ID059_path_174@gold</id>
+		<span>1473,1497</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>73@e@ID059_path_174@gold</id>
+		<span>1483,1497</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>74@e@ID059_path_174@gold</id>
+		<span>1499,1515</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>75@e@ID059_path_174@gold</id>
+		<span>1510,1515</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>76@e@ID059_path_174@gold</id>
+		<span>1521,1544</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>77@e@ID059_path_174@gold</id>
+		<span>1547,1581</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>78@e@ID059_path_174@gold</id>
+		<span>1600,1619</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>79@e@ID059_path_174@gold</id>
+		<span>1655,1663</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>80@e@ID059_path_174@gold</id>
+		<span>1679,1704</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>81@e@ID059_path_174@gold</id>
+		<span>1786,1805</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>82@e@ID059_path_174@gold</id>
+		<span>1826,1843</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>83@e@ID059_path_174@gold</id>
+		<span>1889,1907</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>84@e@ID059_path_174@gold</id>
+		<span>1994,2017</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>85@e@ID059_path_174@gold</id>
+		<span>2097,2134</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>86@e@ID059_path_174@gold</id>
+		<span>2137,2146</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>87@e@ID059_path_174@gold</id>
+		<span>2222,2245</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>88@e@ID059_path_174@gold</id>
+		<span>2322,2348</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>89@e@ID059_path_174@gold</id>
+		<span>2351,2360</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>91@e@ID059_path_174@gold</id>
+		<span>2472,2495</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>92@e@ID059_path_174@gold</id>
+		<span>2553,2565</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>93@e@ID059_path_174@gold</id>
+		<span>363,385</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>94@e@ID059_path_174@gold</id>
+		<span>1090,1111</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>95@e@ID059_path_174@gold</id>
+		<span>1113,1116</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>96@e@ID059_path_174@gold</id>
+		<span>501,503</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>97@e@ID059_path_174@gold</id>
+		<span>495,503</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>98@e@ID059_path_174@gold</id>
+		<span>688,708</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>99@e@ID059_path_174@gold</id>
+		<span>2151,2173</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>100@e@ID059_path_174@gold</id>
+		<span>2178,2219</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>101@e@ID059_path_174@gold</id>
+		<span>2365,2387</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>102@e@ID059_path_174@gold</id>
+		<span>2393,2469</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>103@e@ID059_path_174@gold</id>
+		<span>543,568</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>104@e@ID059_path_174@gold</id>
+		<span>859,885</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>105@e@ID059_path_174@gold</id>
+		<span>888,914</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>106@e@ID059_path_174@gold</id>
+		<span>1090,1136</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>107@e@ID059_path_174@gold</id>
+		<span>1216,1233</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>108@e@ID059_path_174@gold</id>
+		<span>1717,1843</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>109@e@ID059_path_174@gold</id>
+		<span>1846,1866</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>110@e@ID059_path_174@gold</id>
+		<span>1913,1952</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>111@e@ID059_path_174@gold</id>
+		<span>111,138</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>112@e@ID059_path_174@gold</id>
+		<span>1430,1449</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>113@e@ID059_path_174@gold</id>
+		<span>297,334</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>114@e@ID059_path_174@gold</id>
+		<span>1667,1704</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>115@e@ID059_path_174@gold</id>
+		<span>1973,1991</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<relation>
+		<id>36@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>55@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>58@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>78@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>81@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>38@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>56@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>57@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>60@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>77@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>79@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>40@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>59@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>80@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>82@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>41@r@ID059_path_174@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>61@e@ID059_path_174@gold</Set>
+			<Subset>59@e@ID059_path_174@gold</Subset>
+			<Subset>80@e@ID059_path_174@gold</Subset>
+			<Subset>82@e@ID059_path_174@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>42@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>62@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>109@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>43@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>64@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>65@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>85@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>86@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>44@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>65@e@ID059_path_174@gold</Whole>
+			<Part>66@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>45@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>68@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>69@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>88@e@ID059_path_174@gold</Coreferring_String>
+			<Coreferring_String>89@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>46@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>71@e@ID059_path_174@gold</Whole>
+			<Part>59@e@ID059_path_174@gold</Part>
+			<Part>61@e@ID059_path_174@gold</Part>
+			<Part>72@e@ID059_path_174@gold</Part>
+			<Part>74@e@ID059_path_174@gold</Part>
+			<Part>76@e@ID059_path_174@gold</Part>
+			<Part>80@e@ID059_path_174@gold</Part>
+			<Part>82@e@ID059_path_174@gold</Part>
+			<Part>84@e@ID059_path_174@gold</Part>
+			<Part>92@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>47@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>73@e@ID059_path_174@gold</Whole>
+			<Part>72@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>48@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>75@e@ID059_path_174@gold</Whole>
+			<Part>55@e@ID059_path_174@gold</Part>
+			<Part>58@e@ID059_path_174@gold</Part>
+			<Part>93@e@ID059_path_174@gold</Part>
+			<Part>74@e@ID059_path_174@gold</Part>
+			<Part>78@e@ID059_path_174@gold</Part>
+			<Part>81@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>49@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>76@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>92@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>50@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>78@e@ID059_path_174@gold</Whole>
+			<Part>77@e@ID059_path_174@gold</Part>
+			<Part>79@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>51@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>81@e@ID059_path_174@gold</Whole>
+			<Part>108@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>52@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>83@e@ID059_path_174@gold</Whole>
+			<Part>62@e@ID059_path_174@gold</Part>
+			<Part>109@e@ID059_path_174@gold</Part>
+			<Part>110@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>53@r@ID059_path_174@gold</id>
+		<type>Appositive</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Head>94@e@ID059_path_174@gold</Head>
+			<Attributes>95@e@ID059_path_174@gold</Attributes>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>54@r@ID059_path_174@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>96@e@ID059_path_174@gold</Set>
+			<Subset>97@e@ID059_path_174@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>55@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>71@e@ID059_path_174@gold</Whole>
+			<Part>84@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>56@r@ID059_path_174@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>70@e@ID059_path_174@gold</Set>
+			<Subset>64@e@ID059_path_174@gold</Subset>
+			<Subset>65@e@ID059_path_174@gold</Subset>
+			<Subset>68@e@ID059_path_174@gold</Subset>
+			<Subset>69@e@ID059_path_174@gold</Subset>
+			<Subset>71@e@ID059_path_174@gold</Subset>
+			<Subset>85@e@ID059_path_174@gold</Subset>
+			<Subset>86@e@ID059_path_174@gold</Subset>
+			<Subset>88@e@ID059_path_174@gold</Subset>
+			<Subset>89@e@ID059_path_174@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>57@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>98@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>67@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>58@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>86@e@ID059_path_174@gold</Whole>
+			<Part>99@e@ID059_path_174@gold</Part>
+			<Part>100@e@ID059_path_174@gold</Part>
+			<Part>87@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>59@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>89@e@ID059_path_174@gold</Whole>
+			<Part>101@e@ID059_path_174@gold</Part>
+			<Part>102@e@ID059_path_174@gold</Part>
+			<Part>91@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>60@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>62@e@ID059_path_174@gold</Whole>
+			<Part>103@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>61@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>58@e@ID059_path_174@gold</Whole>
+			<Part>56@e@ID059_path_174@gold</Part>
+			<Part>60@e@ID059_path_174@gold</Part>
+			<Part>63@e@ID059_path_174@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>62@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>104@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>105@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>63@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>106@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>107@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>64@r@ID059_path_174@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>109@e@ID059_path_174@gold</Set>
+			<Subset>110@e@ID059_path_174@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>65@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>111@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>112@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>66@r@ID059_path_174@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>113@e@ID059_path_174@gold</FirstInstance>
+			<Coreferring_String>114@e@ID059_path_174@gold</Coreferring_String>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+	<relation>
+		<id>67@r@ID059_path_174@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>110@e@ID059_path_174@gold</Whole>
+			<Part>115@e@ID059_path_174@gold</Part>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+</annotations>
+
+</data>

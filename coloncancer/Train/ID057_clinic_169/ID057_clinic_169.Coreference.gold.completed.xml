@@ -1,0 +1,2813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>13:10:32 20-01-2014</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>225@e@ID057_clinic_169@gold</id>
+		<span>96,142</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>226@e@ID057_clinic_169@gold</id>
+		<span>133,142</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>227@e@ID057_clinic_169@gold</id>
+		<span>255,285</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>228@e@ID057_clinic_169@gold</id>
+		<span>286,296</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>229@e@ID057_clinic_169@gold</id>
+		<span>340,380</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>230@e@ID057_clinic_169@gold</id>
+		<span>383,385</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>231@e@ID057_clinic_169@gold</id>
+		<span>428,431</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>232@e@ID057_clinic_169@gold</id>
+		<span>436,439</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>233@e@ID057_clinic_169@gold</id>
+		<span>436,443</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>234@e@ID057_clinic_169@gold</id>
+		<span>457,460</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>236@e@ID057_clinic_169@gold</id>
+		<span>475,478</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>237@e@ID057_clinic_169@gold</id>
+		<span>475,517</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>238@e@ID057_clinic_169@gold</id>
+		<span>520,531</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>239@e@ID057_clinic_169@gold</id>
+		<span>601,604</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>240@e@ID057_clinic_169@gold</id>
+		<span>601,608</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>241@e@ID057_clinic_169@gold</id>
+		<span>638,641</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>242@e@ID057_clinic_169@gold</id>
+		<span>654,657</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>243@e@ID057_clinic_169@gold</id>
+		<span>674,685</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>244@e@ID057_clinic_169@gold</id>
+		<span>688,690</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>245@e@ID057_clinic_169@gold</id>
+		<span>714,717</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>246@e@ID057_clinic_169@gold</id>
+		<span>726,732</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>247@e@ID057_clinic_169@gold</id>
+		<span>736,765</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>248@e@ID057_clinic_169@gold</id>
+		<span>786,788</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>249@e@ID057_clinic_169@gold</id>
+		<span>847,850</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>250@e@ID057_clinic_169@gold</id>
+		<span>885,888</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>251@e@ID057_clinic_169@gold</id>
+		<span>885,905</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>252@e@ID057_clinic_169@gold</id>
+		<span>919,922</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>253@e@ID057_clinic_169@gold</id>
+		<span>961,963</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>255@e@ID057_clinic_169@gold</id>
+		<span>999,1002</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>256@e@ID057_clinic_169@gold</id>
+		<span>1030,1033</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>257@e@ID057_clinic_169@gold</id>
+		<span>1042,1044</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>258@e@ID057_clinic_169@gold</id>
+		<span>1114,1118</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>259@e@ID057_clinic_169@gold</id>
+		<span>1150,1153</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>260@e@ID057_clinic_169@gold</id>
+		<span>1182,1195</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>261@e@ID057_clinic_169@gold</id>
+		<span>1198,1200</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>262@e@ID057_clinic_169@gold</id>
+		<span>1232,1235</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>263@e@ID057_clinic_169@gold</id>
+		<span>1303,1305</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>264@e@ID057_clinic_169@gold</id>
+		<span>1371,1373</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>265@e@ID057_clinic_169@gold</id>
+		<span>1394,1397</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>266@e@ID057_clinic_169@gold</id>
+		<span>1476,1522</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>267@e@ID057_clinic_169@gold</id>
+		<span>1635,1665</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>268@e@ID057_clinic_169@gold</id>
+		<span>1721,1769</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>269@e@ID057_clinic_169@gold</id>
+		<span>1745,1769</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>270@e@ID057_clinic_169@gold</id>
+		<span>1826,1827</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>271@e@ID057_clinic_169@gold</id>
+		<span>1852,1862</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>272@e@ID057_clinic_169@gold</id>
+		<span>1864,1866</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>273@e@ID057_clinic_169@gold</id>
+		<span>1892,1952</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>274@e@ID057_clinic_169@gold</id>
+		<span>1922,1952</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>275@e@ID057_clinic_169@gold</id>
+		<span>2009,2019</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>277@e@ID057_clinic_169@gold</id>
+		<span>2117,2128</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>278@e@ID057_clinic_169@gold</id>
+		<span>2142,2145</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>279@e@ID057_clinic_169@gold</id>
+		<span>2247,2303</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>280@e@ID057_clinic_169@gold</id>
+		<span>2348,2350</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>281@e@ID057_clinic_169@gold</id>
+		<span>2528,2548</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>282@e@ID057_clinic_169@gold</id>
+		<span>2656,2695</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>283@e@ID057_clinic_169@gold</id>
+		<span>2703,2755</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>284@e@ID057_clinic_169@gold</id>
+		<span>2778,2789</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>285@e@ID057_clinic_169@gold</id>
+		<span>2810,2830</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>286@e@ID057_clinic_169@gold</id>
+		<span>2836,2839</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>287@e@ID057_clinic_169@gold</id>
+		<span>2885,2888</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>288@e@ID057_clinic_169@gold</id>
+		<span>3042,3049</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>289@e@ID057_clinic_169@gold</id>
+		<span>3067,3132</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>290@e@ID057_clinic_169@gold</id>
+		<span>3100,3132</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>291@e@ID057_clinic_169@gold</id>
+		<span>3172,3183</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>292@e@ID057_clinic_169@gold</id>
+		<span>3247,3260</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>293@e@ID057_clinic_169@gold</id>
+		<span>3274,3283</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>294@e@ID057_clinic_169@gold</id>
+		<span>3333,3342</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>295@e@ID057_clinic_169@gold</id>
+		<span>3353,3387</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>296@e@ID057_clinic_169@gold</id>
+		<span>3407,3536</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>297@e@ID057_clinic_169@gold</id>
+		<span>3476,3495</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>298@e@ID057_clinic_169@gold</id>
+		<span>3539,3548</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>299@e@ID057_clinic_169@gold</id>
+		<span>3706,3717</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>300@e@ID057_clinic_169@gold</id>
+		<span>3747,3756</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>301@e@ID057_clinic_169@gold</id>
+		<span>3759,3761</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>303@e@ID057_clinic_169@gold</id>
+		<span>3879,3886</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>304@e@ID057_clinic_169@gold</id>
+		<span>3910,3921</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>305@e@ID057_clinic_169@gold</id>
+		<span>3933,3955</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>306@e@ID057_clinic_169@gold</id>
+		<span>3958,3960</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>307@e@ID057_clinic_169@gold</id>
+		<span>3979,3982</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>308@e@ID057_clinic_169@gold</id>
+		<span>4000,4003</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>309@e@ID057_clinic_169@gold</id>
+		<span>4000,4007;4015,4034</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>310@e@ID057_clinic_169@gold</id>
+		<span>4009,4013</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>311@e@ID057_clinic_169@gold</id>
+		<span>4025,4028</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>312@e@ID057_clinic_169@gold</id>
+		<span>4037,4040</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>313@e@ID057_clinic_169@gold</id>
+		<span>4037,4050</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>314@e@ID057_clinic_169@gold</id>
+		<span>4052,4059</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>315@e@ID057_clinic_169@gold</id>
+		<span>4064,4067</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>316@e@ID057_clinic_169@gold</id>
+		<span>4093,4096</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>317@e@ID057_clinic_169@gold</id>
+		<span>4104,4115</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>318@e@ID057_clinic_169@gold</id>
+		<span>4162,4165</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>319@e@ID057_clinic_169@gold</id>
+		<span>4171,4174</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>320@e@ID057_clinic_169@gold</id>
+		<span>4359,4371</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>321@e@ID057_clinic_169@gold</id>
+		<span>4377,4380</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>322@e@ID057_clinic_169@gold</id>
+		<span>4456,4459</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>323@e@ID057_clinic_169@gold</id>
+		<span>4465,4473</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>324@e@ID057_clinic_169@gold</id>
+		<span>4475,4486</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>325@e@ID057_clinic_169@gold</id>
+		<span>5177,5180</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>326@e@ID057_clinic_169@gold</id>
+		<span>5250,5253</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>327@e@ID057_clinic_169@gold</id>
+		<span>5991,5994</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>328@e@ID057_clinic_169@gold</id>
+		<span>6076,6079</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>329@e@ID057_clinic_169@gold</id>
+		<span>6120,6123</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>330@e@ID057_clinic_169@gold</id>
+		<span>6159,6187</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>331@e@ID057_clinic_169@gold</id>
+		<span>6190,6193</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>332@e@ID057_clinic_169@gold</id>
+		<span>6230,6233</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>333@e@ID057_clinic_169@gold</id>
+		<span>6266,6275</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>334@e@ID057_clinic_169@gold</id>
+		<span>6290,6293</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>335@e@ID057_clinic_169@gold</id>
+		<span>6290,6302</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>336@e@ID057_clinic_169@gold</id>
+		<span>6355,6367</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>337@e@ID057_clinic_169@gold</id>
+		<span>6385,6390</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>338@e@ID057_clinic_169@gold</id>
+		<span>7084,7088</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>339@e@ID057_clinic_169@gold</id>
+		<span>7091,7109</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>340@e@ID057_clinic_169@gold</id>
+		<span>7110,7115</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>341@e@ID057_clinic_169@gold</id>
+		<span>7118,7125;7135,7141</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>342@e@ID057_clinic_169@gold</id>
+		<span>7118,7130</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>343@e@ID057_clinic_169@gold</id>
+		<span>7143,7162</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>344@e@ID057_clinic_169@gold</id>
+		<span>7165,7167;7176,7183</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>345@e@ID057_clinic_169@gold</id>
+		<span>7165,7172</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>346@e@ID057_clinic_169@gold</id>
+		<span>7184,7191</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>347@e@ID057_clinic_169@gold</id>
+		<span>7250,7262</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>348@e@ID057_clinic_169@gold</id>
+		<span>7283,7284</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>349@e@ID057_clinic_169@gold</id>
+		<span>7341,7346</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>350@e@ID057_clinic_169@gold</id>
+		<span>7349,7351;7397,7421</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>351@e@ID057_clinic_169@gold</id>
+		<span>7349,7365;7406,7421</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>352@e@ID057_clinic_169@gold</id>
+		<span>7434,7439</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>353@e@ID057_clinic_169@gold</id>
+		<span>7442,7449</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>354@e@ID057_clinic_169@gold</id>
+		<span>7540,7557</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>355@e@ID057_clinic_169@gold</id>
+		<span>7634,7641</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>356@e@ID057_clinic_169@gold</id>
+		<span>7720,7723</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>357@e@ID057_clinic_169@gold</id>
+		<span>7742,7745</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>358@e@ID057_clinic_169@gold</id>
+		<span>7742,7749</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>359@e@ID057_clinic_169@gold</id>
+		<span>7751,7755</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>360@e@ID057_clinic_169@gold</id>
+		<span>7756,7767</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>361@e@ID057_clinic_169@gold</id>
+		<span>7770,7772;7783,7791</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>362@e@ID057_clinic_169@gold</id>
+		<span>7770,7772;7796,7801</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>363@e@ID057_clinic_169@gold</id>
+		<span>7770,7781</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>364@e@ID057_clinic_169@gold</id>
+		<span>7907,7910</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>365@e@ID057_clinic_169@gold</id>
+		<span>5087,5092</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>366@e@ID057_clinic_169@gold</id>
+		<span>4438,4443</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>367@e@ID057_clinic_169@gold</id>
+		<span>4359,4364</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>368@e@ID057_clinic_169@gold</id>
+		<span>3983,3988</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>369@e@ID057_clinic_169@gold</id>
+		<span>4154,4159</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>370@e@ID057_clinic_169@gold</id>
+		<span>1843,1848</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>371@e@ID057_clinic_169@gold</id>
+		<span>3092,3132</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>372@e@ID057_clinic_169@gold</id>
+		<span>7708,7717</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>373@e@ID057_clinic_169@gold</id>
+		<span>508,517</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>374@e@ID057_clinic_169@gold</id>
+		<span>5226,5230</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>375@e@ID057_clinic_169@gold</id>
+		<span>5329,5399</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>376@e@ID057_clinic_169@gold</id>
+		<span>5342,5349</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>377@e@ID057_clinic_169@gold</id>
+		<span>2735,2755</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>378@e@ID057_clinic_169@gold</id>
+		<span>629,641</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>379@e@ID057_clinic_169@gold</id>
+		<span>1320,1337</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>380@e@ID057_clinic_169@gold</id>
+		<span>6886,6897</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>381@e@ID057_clinic_169@gold</id>
+		<span>6954,6965</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>382@e@ID057_clinic_169@gold</id>
+		<span>4438,4450</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>383@e@ID057_clinic_169@gold</id>
+		<span>5087,5099</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>384@e@ID057_clinic_169@gold</id>
+		<span>2142,2160</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>385@e@ID057_clinic_169@gold</id>
+		<span>2619,2636</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>386@e@ID057_clinic_169@gold</id>
+		<span>2557,2636</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>388@e@ID057_clinic_169@gold</id>
+		<span>7273,7280</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>389@e@ID057_clinic_169@gold</id>
+		<span>7296,7309;7325,7340</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>390@e@ID057_clinic_169@gold</id>
+		<span>7296,7320;7333,7340</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>391@e@ID057_clinic_169@gold</id>
+		<span>1214,1227</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>392@e@ID057_clinic_169@gold</id>
+		<span>1320,1332</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>393@e@ID057_clinic_169@gold</id>
+		<span>3787,3799</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>394@e@ID057_clinic_169@gold</id>
+		<span>7296,7309</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>395@e@ID057_clinic_169@gold</id>
+		<span>1232,1241</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>396@e@ID057_clinic_169@gold</id>
+		<span>6338,6341</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>397@e@ID057_clinic_169@gold</id>
+		<span>6363,6367</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>398@e@ID057_clinic_169@gold</id>
+		<span>6304,6314</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>399@e@ID057_clinic_169@gold</id>
+		<span>6319,6332</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>400@e@ID057_clinic_169@gold</id>
+		<span>6198,6227</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>401@e@ID057_clinic_169@gold</id>
+		<span>6172,6187</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>402@e@ID057_clinic_169@gold</id>
+		<span>1267,1270</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>403@e@ID057_clinic_169@gold</id>
+		<span>1513,1522</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>404@e@ID057_clinic_169@gold</id>
+		<span>5067,5072</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>405@e@ID057_clinic_169@gold</id>
+		<span>7349,7351;7367,7375;7406,7421</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>406@e@ID057_clinic_169@gold</id>
+		<span>7349,7351;7377,7392;7406,7421</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>407@e@ID057_clinic_169@gold</id>
+		<span>178,251</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>408@e@ID057_clinic_169@gold</id>
+		<span>213,224</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>409@e@ID057_clinic_169@gold</id>
+		<span>229,251</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>410@e@ID057_clinic_169@gold</id>
+		<span>1558,1631</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>411@e@ID057_clinic_169@gold</id>
+		<span>1593,1604</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>412@e@ID057_clinic_169@gold</id>
+		<span>1609,1631</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>413@e@ID057_clinic_169@gold</id>
+		<span>4494,4511</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>414@e@ID057_clinic_169@gold</id>
+		<span>3305,3310</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>415@e@ID057_clinic_169@gold</id>
+		<span>3737,3745</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>416@e@ID057_clinic_169@gold</id>
+		<span>4386,4412</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>417@e@ID057_clinic_169@gold</id>
+		<span>1165,1178</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>418@e@ID057_clinic_169@gold</id>
+		<span>2761,2775</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>419@e@ID057_clinic_169@gold</id>
+		<span>2865,2874</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>420@e@ID057_clinic_169@gold</id>
+		<span>155,174</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>421@e@ID057_clinic_169@gold</id>
+		<span>1535,1554</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>422@e@ID057_clinic_169@gold</id>
+		<span>3800,3813</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>423@e@ID057_clinic_169@gold</id>
+		<span>4814,4817;4837,4849</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>424@e@ID057_clinic_169@gold</id>
+		<span>4784,4817;4837,4849</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>425@e@ID057_clinic_169@gold</id>
+		<span>4814,4832</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>426@e@ID057_clinic_169@gold</id>
+		<span>4784,4832</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>427@e@ID057_clinic_169@gold</id>
+		<span>4977,4989</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>428@e@ID057_clinic_169@gold</id>
+		<span>4951,4989</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>429@e@ID057_clinic_169@gold</id>
+		<span>5140,5168</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>430@e@ID057_clinic_169@gold</id>
+		<span>5212,5216</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>431@e@ID057_clinic_169@gold</id>
+		<span>3787,3876</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>432@e@ID057_clinic_169@gold</id>
+		<span>5825,5840</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>433@e@ID057_clinic_169@gold</id>
+		<span>5974,5989</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>434@e@ID057_clinic_169@gold</id>
+		<span>7230,7247</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>435@e@ID057_clinic_169@gold</id>
+		<span>562,585</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>436@e@ID057_clinic_169@gold</id>
+		<span>570,585</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>437@e@ID057_clinic_169@gold</id>
+		<span>859,868;882,905</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>438@e@ID057_clinic_169@gold</id>
+		<span>3570,3592</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>439@e@ID057_clinic_169@gold</id>
+		<span>3600,3617</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>441@e@ID057_clinic_169@gold</id>
+		<span>3844,3876</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>442@e@ID057_clinic_169@gold</id>
+		<span>7587,7631</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<relation>
+		<id>66@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>226@e@ID057_clinic_169@gold</Whole>
+			<Part>225@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>67@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>227@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>267@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>68@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>228@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>231@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>232@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>234@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>238@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>239@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>241@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>242@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>245@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>249@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>250@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>252@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>255@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>256@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>259@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>391@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>262@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>392@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>275@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>277@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>278@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>284@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>286@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>287@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>288@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>299@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>393@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>303@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>307@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>308@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>311@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>312@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>315@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>316@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>317@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>318@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>319@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>325@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>326@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>327@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>328@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>329@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>331@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>334@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>394@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>353@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>442@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>355@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>356@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>357@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>69@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>229@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>251@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>274@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>441@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>320@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>416@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>70@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>230@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>236@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>244@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>248@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>253@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>261@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>402@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>263@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>264@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>265@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>272@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>301@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>306@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>71@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>233@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>240@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>395@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>310@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>359@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>72@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>237@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>273@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>431@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>73@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>247@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>260@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>75@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>269@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>289@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>77@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>293@e@ID057_clinic_169@gold</Whole>
+			<Part>292@e@ID057_clinic_169@gold</Part>
+			<Part>414@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>78@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>297@e@ID057_clinic_169@gold</Whole>
+			<Part>296@e@ID057_clinic_169@gold</Part>
+			<Part>298@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>79@r@ID057_clinic_169@gold</id>
+		<type>Appositive</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Head>310@e@ID057_clinic_169@gold</Head>
+			<Attributes>309@e@ID057_clinic_169@gold</Attributes>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>80@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>321@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>322@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>364@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>81@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>338@e@ID057_clinic_169@gold</Whole>
+			<Part>339@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>82@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>340@e@ID057_clinic_169@gold</Whole>
+			<Part>341@e@ID057_clinic_169@gold</Part>
+			<Part>342@e@ID057_clinic_169@gold</Part>
+			<Part>343@e@ID057_clinic_169@gold</Part>
+			<Part>344@e@ID057_clinic_169@gold</Part>
+			<Part>345@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>83@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>346@e@ID057_clinic_169@gold</Whole>
+			<Part>438@e@ID057_clinic_169@gold</Part>
+			<Part>439@e@ID057_clinic_169@gold</Part>
+			<Part>434@e@ID057_clinic_169@gold</Part>
+			<Part>347@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>85@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>349@e@ID057_clinic_169@gold</Whole>
+			<Part>405@e@ID057_clinic_169@gold</Part>
+			<Part>406@e@ID057_clinic_169@gold</Part>
+			<Part>350@e@ID057_clinic_169@gold</Part>
+			<Part>351@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>86@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>352@e@ID057_clinic_169@gold</Whole>
+			<Part>354@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>87@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>360@e@ID057_clinic_169@gold</Whole>
+			<Part>361@e@ID057_clinic_169@gold</Part>
+			<Part>362@e@ID057_clinic_169@gold</Part>
+			<Part>363@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>88@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>370@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>368@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>369@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>380@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>381@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>89@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>382@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>383@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>91@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>257@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>258@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>92@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>291@e@ID057_clinic_169@gold</Set>
+			<Subset>384@e@ID057_clinic_169@gold</Subset>
+			<Subset>281@e@ID057_clinic_169@gold</Subset>
+			<Subset>285@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>93@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>371@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>290@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>374@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>94@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>373@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>372@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>95@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>376@e@ID057_clinic_169@gold</Set>
+			<Subset>375@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>96@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>283@e@ID057_clinic_169@gold</Whole>
+			<Part>377@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>97@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>283@e@ID057_clinic_169@gold</Set>
+			<Subset>282@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>98@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>385@e@ID057_clinic_169@gold</Set>
+			<Subset>386@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>99@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>415@e@ID057_clinic_169@gold</Set>
+			<Subset>225@e@ID057_clinic_169@gold</Subset>
+			<Subset>266@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>100@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>269@e@ID057_clinic_169@gold</Whole>
+			<Part>268@e@ID057_clinic_169@gold</Part>
+			<Part>270@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>101@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>289@e@ID057_clinic_169@gold</Whole>
+			<Part>294@e@ID057_clinic_169@gold</Part>
+			<Part>348@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>102@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>272@e@ID057_clinic_169@gold</Set>
+			<Subset>294@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>103@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>388@e@ID057_clinic_169@gold</Set>
+			<Subset>389@e@ID057_clinic_169@gold</Subset>
+			<Subset>390@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>104@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>378@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>379@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>105@r@ID057_clinic_169@gold</id>
+		<type>Appositive</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Head>359@e@ID057_clinic_169@gold</Head>
+			<Attributes>358@e@ID057_clinic_169@gold</Attributes>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>106@r@ID057_clinic_169@gold</id>
+		<type>Appositive</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Head>314@e@ID057_clinic_169@gold</Head>
+			<Attributes>313@e@ID057_clinic_169@gold</Attributes>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>107@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>335@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>396@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>397@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>337@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>108@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>397@e@ID057_clinic_169@gold</Set>
+			<Subset>336@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>109@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>335@e@ID057_clinic_169@gold</Set>
+			<Subset>398@e@ID057_clinic_169@gold</Subset>
+			<Subset>399@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>110@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>398@e@ID057_clinic_169@gold</Set>
+			<Subset>233@e@ID057_clinic_169@gold</Subset>
+			<Subset>240@e@ID057_clinic_169@gold</Subset>
+			<Subset>395@e@ID057_clinic_169@gold</Subset>
+			<Subset>310@e@ID057_clinic_169@gold</Subset>
+			<Subset>314@e@ID057_clinic_169@gold</Subset>
+			<Subset>359@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>111@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>400@e@ID057_clinic_169@gold</Set>
+			<Subset>332@e@ID057_clinic_169@gold</Subset>
+			<Subset>333@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>112@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>401@e@ID057_clinic_169@gold</Set>
+			<Subset>330@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>113@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>268@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>270@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>294@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>348@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>114@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>265@e@ID057_clinic_169@gold</Set>
+			<Subset>268@e@ID057_clinic_169@gold</Subset>
+			<Subset>270@e@ID057_clinic_169@gold</Subset>
+			<Subset>271@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>115@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>306@e@ID057_clinic_169@gold</Set>
+			<Subset>348@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>116@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>226@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>403@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>367@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>366@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>404@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>365@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>117@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>403@e@ID057_clinic_169@gold</Whole>
+			<Part>266@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>118@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>225@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>266@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>119@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>407@e@ID057_clinic_169@gold</Set>
+			<Subset>408@e@ID057_clinic_169@gold</Subset>
+			<Subset>409@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>120@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>410@e@ID057_clinic_169@gold</Set>
+			<Subset>411@e@ID057_clinic_169@gold</Subset>
+			<Subset>412@e@ID057_clinic_169@gold</Subset>
+			<Subset>304@e@ID057_clinic_169@gold</Subset>
+			<Subset>305@e@ID057_clinic_169@gold</Subset>
+			<Subset>323@e@ID057_clinic_169@gold</Subset>
+			<Subset>324@e@ID057_clinic_169@gold</Subset>
+			<Subset>413@e@ID057_clinic_169@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>121@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>408@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>411@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>304@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>324@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>122@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>409@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>412@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>305@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>123@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>279@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>280@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>124@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>296@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>298@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>125@r@ID057_clinic_169@gold</id>
+		<type>Appositive</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Head>415@e@ID057_clinic_169@gold</Head>
+			<Attributes>300@e@ID057_clinic_169@gold</Attributes>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>126@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>246@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>417@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>127@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>418@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>419@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>128@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>420@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>243@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>421@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>295@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>422@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>129@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>423@e@ID057_clinic_169@gold</Whole>
+			<Part>424@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>130@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>425@e@ID057_clinic_169@gold</Whole>
+			<Part>426@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>131@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>427@e@ID057_clinic_169@gold</Whole>
+			<Part>428@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>132@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>429@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>430@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>133@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>407@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>410@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>134@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>371@e@ID057_clinic_169@gold</Whole>
+			<Part>289@e@ID057_clinic_169@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>135@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>384@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>281@e@ID057_clinic_169@gold</Coreferring_String>
+			<Coreferring_String>285@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>136@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>292@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>414@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>137@r@ID057_clinic_169@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>432@e@ID057_clinic_169@gold</FirstInstance>
+			<Coreferring_String>433@e@ID057_clinic_169@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>138@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>436@e@ID057_clinic_169@gold</Set>
+			<Subset>435@e@ID057_clinic_169@gold</Subset>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+	<relation>
+		<id>139@r@ID057_clinic_169@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>437@e@ID057_clinic_169@gold</Set>
+			<Subset>415@e@ID057_clinic_169@gold</Subset>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+	<relation>
+		<id>140@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>229@e@ID057_clinic_169@gold</Whole>
+			<Part>225@e@ID057_clinic_169@gold</Part>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+	<relation>
+		<id>141@r@ID057_clinic_169@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>251@e@ID057_clinic_169@gold</Whole>
+			<Part>266@e@ID057_clinic_169@gold</Part>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+</annotations>
+
+</data>

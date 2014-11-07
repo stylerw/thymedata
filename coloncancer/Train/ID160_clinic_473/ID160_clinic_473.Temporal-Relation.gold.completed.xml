@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>10:19:04 25-05-2014</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>22@e@ID160_clinic_473@gold</id>
+		<span>40,50</span>
+		<type>DOCTIME</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@ID160_clinic_473@gold</id>
+		<span>153,162</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@ID160_clinic_473@gold</id>
+		<span>175,181</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@ID160_clinic_473@gold</id>
+		<span>185,196</span>
+		<type>TIMEX3</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<Class>DATE</Class>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@ID160_clinic_473@gold</id>
+		<span>202,207</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@ID160_clinic_473@gold</id>
+		<span>208,213</span>
+		<type>TIMEX3</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<Class>DATE</Class>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@e@ID160_clinic_473@gold</id>
+		<span>222,228</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>29@e@ID160_clinic_473@gold</id>
+		<span>236,244</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>30@e@ID160_clinic_473@gold</id>
+		<span>250,256</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>EVIDENTIAL</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>32@e@ID160_clinic_473@gold</id>
+		<span>293,301</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>33@e@ID160_clinic_473@gold</id>
+		<span>305,311</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>34@e@ID160_clinic_473@gold</id>
+		<span>327,337</span>
+		<type>TIMEX3</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<Class>QUANTIFIER</Class>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>35@e@ID160_clinic_473@gold</id>
+		<span>343,349</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@ID160_clinic_473@gold</id>
+		<span>352,355</span>
+		<type>TIMEX3</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<Class>DURATION</Class>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>37@e@ID160_clinic_473@gold</id>
+		<span>374,382</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>38@e@ID160_clinic_473@gold</id>
+		<span>390,398</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>39@e@ID160_clinic_473@gold</id>
+		<span>465,477</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>40@e@ID160_clinic_473@gold</id>
+		<span>270,274</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<relation>
+		<id>25@r@ID160_clinic_473@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>25@e@ID160_clinic_473@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>23@e@ID160_clinic_473@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>26@r@ID160_clinic_473@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID160_clinic_473@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>26@e@ID160_clinic_473@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>27@r@ID160_clinic_473@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>29@e@ID160_clinic_473@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>28@e@ID160_clinic_473@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>28@r@ID160_clinic_473@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>36@e@ID160_clinic_473@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>35@e@ID160_clinic_473@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>29@r@ID160_clinic_473@gold</id>
+		<type>ALINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>32@e@ID160_clinic_473@gold</Source>
+			<Target>33@e@ID160_clinic_473@gold</Target>
+			<Type>REINITIATES</Type>
+		</properties>
+	</relation>
+
+</annotations>
+
+</data>

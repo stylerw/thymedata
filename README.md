@@ -44,21 +44,27 @@ The annotations in the THYME Corpus were created by annotators and adjudicators 
 
 These annotations label spans as EVENTs, TIMEX3s, DOCTIME or SECTIONTIME, and then link them temporally using TLINKs and ALINKs.  Our annotation schema is derived from ISO-TimeML, with variations as described in [*Temporal Annotation in the Clinical Domain*](http://www.transacl.org/wp-content/uploads/2014/04/47.pdf), and is fully described in [The THYME Annotation Guidelines](http://clear.colorado.edu/compsem/documents/THYME%20Guidelines.pdf).   
 
-For Clinical (_CLIN) and Radiology (_RAD) notes in both corpora, the Gold Standard notes have been double-annotated for temporal entities (EVENT, TIMEX3, DOCTIME,SECTIONTIME), adjudicated, and then double-annotated for relations (TLINK, ALINK) and adjudicated.   The .Gold_Temporal_Relation.xml files for clinical and radiology notes are fully annotated.  
+For Clinical (_CLIN) and Radiology (_RAD) notes in both corpora, the Gold Standard notes have been double-annotated for temporal entities (EVENT, TIMEX3, DOCTIME,SECTIONTIME), adjudicated, and then double-annotated for relations (TLINK, ALINK) and adjudicated. Thus, the [docname].Temporal-Relation.gold.completed.xml files for clinical and radiology notes are fully annotated according to the THYME schema.
 
-The Pathology (_PATH) notes, because of their temporally-sparse nature, were not given later relations annotation.  Thus, the .Gold_Temporal_Entities.xml files only provide information about temporal entities.  
+The Pathology (_PATH) notes, because of their temporally-sparse nature, were not given later relations annotation.  Thus, the [docname].Temporal-Entity.gold.completed.xml files only provide information about temporal entities. Absence of relations does not imply lack of relations in these notes.
 
 #### Coreference Annotations
 
-In addition, for many of the notes, we will have adjudicated Coreference Annotations posted, serving to mark Anaphora throughout the document, alongside a limited number of bridging relations (like SET/SUBSET or PART/WHOLE).   
+In addition, for some of the notes within the Colon Cancer corpus, we will have adjudicated Coreference Annotations posted, serving to mark Anaphora throughout the document, alongside a limited number of bridging relations (like SET/SUBSET or PART/WHOLE).
+
+Not all documents have been double-annotated and adjudicated for Coreference. For those that do have Coreference Annotations, [docname].Coreference.gold.completed.xml is adjudicated gold-standard coreference data.
 
 #### UMLS Named Entity Annotations
 
-Finally, a subset of the notes will have UMLS Named Entity tags assigned as well, in a separate XML file.  These tags mark clinical entities and events with their UMLS semantic groups ("hemicolectomy" is marked as a 'procedure', and "fever" is a 'sign/symptom').  Due to limitations in manpower, only a small portion of the corpus was fully annotated for UMLS.
+Finally, a subset of the notes will have UMLS Named Entity tags assigned as well, in a separate XML file.  These tags mark clinical entities and events with their UMLS semantic groups ("hemicolectomy" is marked as a 'procedure', and "fever" is a 'sign/symptom').  Due to limitations in manpower, only a small portion of the corpus was fully annotated for UMLS entities.  For those that do have Coreference Annotations, [docname].UMLS-Entity.gold.completed.xml is adjudicated gold-standard coreference data.
 
 ### Annotation Format
 <a name="format"/>
 
-All data are provided in the AnaforaXML format, created by (and designed to be read in) the [Anafora Annotation Tool](https://github.com/weitechen/anafora).  The XML data format aims to be both easily human-readable and easy-to-use.
+All data are provided in the AnaforaXML format, created by (and designed to be read in) the [Anafora Annotation Tool](https://github.com/weitechen/anafora).  The XML data format aims to be both easily human-readable and easy-to-use, and contains no source text (allowing the free distribution of annotations).
 
-Each XML file should be read with its labeled source text file (so doc0002_CLIN.Gold_Temporal_Relation.xml would be read with doc0002_CLIN.txt).  Please be cautious to avoid changing the line endings of the source text file, as this may change the offsets.
+Each XML file should be read with its labeled source text file (so doc0002_CLIN.Temporal-Relation.gold.completed.xml would be read with the source file doc0002_CLIN).
+
+### Line Endings
+
+Because all annotations are stored as offsets, *you must be extremely careful not to modify the source text in any way*. The most common source of error comes from Windows machines changing the Unix line endings to Windows line endings when opening or unzipping the source files.  For this reason, we recommend the use of [7-zip](http://www.7-zip.org) for unzipping the source files on Windows machines, and the careful handling of those source files during any time they may spend outside of a *nix system.
