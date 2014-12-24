@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>13:19:00 23-07-2014</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>9@e@ID157_path_463@gold</id>
+		<span>233,263</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@ID157_path_463@gold</id>
+		<span>495,533</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@ID157_path_463@gold</id>
+		<span>536,548</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@ID157_path_463@gold</id>
+		<span>410,533</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@ID157_path_463@gold</id>
+		<span>138,149;168,177</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@ID157_path_463@gold</id>
+		<span>138,164</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@ID157_path_463@gold</id>
+		<span>191,219</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@ID157_path_463@gold</id>
+		<span>454,533</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@ID157_path_463@gold</id>
+		<span>442,448</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<entity>
+		<id>18@e@ID157_path_463@gold</id>
+		<span>643,646</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@ID157_path_463@gold</id>
+		<span>109,115</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</entity>
+
+	<relation>
+		<id>5@r@ID157_path_463@gold</id>
+		<type>Set/Subset</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Set>9@e@ID157_path_463@gold</Set>
+			<Subset>10@e@ID157_path_463@gold</Subset>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>6@r@ID157_path_463@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>12@e@ID157_path_463@gold</Whole>
+			<Part>13@e@ID157_path_463@gold</Part>
+			<Part>14@e@ID157_path_463@gold</Part>
+			<Part>15@e@ID157_path_463@gold</Part>
+			<Part>9@e@ID157_path_463@gold</Part>
+			<Part>16@e@ID157_path_463@gold</Part>
+			<Part>10@e@ID157_path_463@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>7@r@ID157_path_463@gold</id>
+		<type>Whole/Part</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Whole>17@e@ID157_path_463@gold</Whole>
+			<Part>12@e@ID157_path_463@gold</Part>
+			<Part>11@e@ID157_path_463@gold</Part>
+			<Part>18@e@ID157_path_463@gold</Part>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>8@r@ID157_path_463@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>12@e@ID157_path_463@gold</FirstInstance>
+			<Coreferring_String>11@e@ID157_path_463@gold</Coreferring_String>
+			<Coreferring_String>18@e@ID157_path_463@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>9@r@ID157_path_463@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>19@e@ID157_path_463@gold</FirstInstance>
+			<Coreferring_String>17@e@ID157_path_463@gold</Coreferring_String>
+		</properties>
+		<addition>
+			<adjudication>gold</adjudication>
+		</addition>
+	</relation>
+
+</annotations>
+
+</data>

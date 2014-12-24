@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>12:12:14 19-06-2013</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>35@e@ID029_path_086@gold</id>
+		<span>39,48</span>
+		<type>DOCTIME</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@ID029_path_086@gold</id>
+		<span>125,131</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>37@e@ID029_path_086@gold</id>
+		<span>165,179</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>38@e@ID029_path_086@gold</id>
+		<span>274,285</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>39@e@ID029_path_086@gold</id>
+		<span>320,330</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>40@e@ID029_path_086@gold</id>
+		<span>402,410</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>41@e@ID029_path_086@gold</id>
+		<span>414,421</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>42@e@ID029_path_086@gold</id>
+		<span>462,472</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>EVIDENTIAL</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>43@e@ID029_path_086@gold</id>
+		<span>509,518</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>44@e@ID029_path_086@gold</id>
+		<span>620,628</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>45@e@ID029_path_086@gold</id>
+		<span>635,642</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>46@e@ID029_path_086@gold</id>
+		<span>709,718</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>47@e@ID029_path_086@gold</id>
+		<span>721,728</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>48@e@ID029_path_086@gold</id>
+		<span>97,106</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>49@e@ID029_path_086@gold</id>
+		<span>233,239</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>50@e@ID029_path_086@gold</id>
+		<span>454,461</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>51@e@ID029_path_086@gold</id>
+		<span>494,500</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>52@e@ID029_path_086@gold</id>
+		<span>532,538</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>HYPOTHETICAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>53@e@ID029_path_086@gold</id>
+		<span>679,687</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>54@e@ID029_path_086@gold</id>
+		<span>202,210</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>55@e@ID029_path_086@gold</id>
+		<span>428,436</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>56@e@ID029_path_086@gold</id>
+		<span>243,248</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>ACTUAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>57@e@ID029_path_086@gold</id>
+		<span>524,531</span>
+		<type>EVENT</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
+			<Type>N/A</Type>
+			<Degree>N/A</Degree>
+			<Polarity>POS</Polarity>
+			<ContextualModality>HYPOTHETICAL</ContextualModality>
+			<ContextualAspect>N/A</ContextualAspect>
+			<Permanence>UNDETERMINED</Permanence>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

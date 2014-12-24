@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>15:23:10 27-03-2014</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>13@e@ID092_clinic_273@gold</id>
+		<span>358,361</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@ID092_clinic_273@gold</id>
+		<span>405,408</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@ID092_clinic_273@gold</id>
+		<span>626,690</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@ID092_clinic_273@gold</id>
+		<span>692,711</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@ID092_clinic_273@gold</id>
+		<span>739,758</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@ID092_clinic_273@gold</id>
+		<span>783,806</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@ID092_clinic_273@gold</id>
+		<span>834,857</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@ID092_clinic_273@gold</id>
+		<span>859,875</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@ID092_clinic_273@gold</id>
+		<span>878,882</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@ID092_clinic_273@gold</id>
+		<span>228,239</span>
+		<type>Markable</type>
+		<parentsType>Coreference</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<relation>
+		<id>1@r@ID092_clinic_273@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>15@e@ID092_clinic_273@gold</FirstInstance>
+			<Coreferring_String>16@e@ID092_clinic_273@gold</Coreferring_String>
+			<Coreferring_String>17@e@ID092_clinic_273@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>2@r@ID092_clinic_273@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>18@e@ID092_clinic_273@gold</FirstInstance>
+			<Coreferring_String>19@e@ID092_clinic_273@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>3@r@ID092_clinic_273@gold</id>
+		<type>Appositive</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<Head>20@e@ID092_clinic_273@gold</Head>
+			<Attributes>21@e@ID092_clinic_273@gold</Attributes>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>4@r@ID092_clinic_273@gold</id>
+		<type>Identical</type>
+		<parentsType>CorefChains</parentsType>
+		<properties>
+			<FirstInstance>22@e@ID092_clinic_273@gold</FirstInstance>
+			<Coreferring_String>13@e@ID092_clinic_273@gold</Coreferring_String>
+			<Coreferring_String>14@e@ID092_clinic_273@gold</Coreferring_String>
+		</properties>
+	</relation>
+
+</annotations>
+
+</data>
