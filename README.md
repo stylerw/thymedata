@@ -20,21 +20,12 @@ For ease of distribution, the THYME corpus is distributed in two parts:
 ### Accessing the THYME Clinical Notes
 <a name="DUA"/>
 
-The THYME corpus of notes is available to others involved in NLP research under a data use agreement (DUA) with Mayo Clinic. Requests for a copy of the THYME corpus should be made to a Mayo NLP investigator (e.g., Dr. Piet de Groen) in order to complete the DUA. After the DUA has been completed, the THYME corpus is available via a secure download mechanism. Distribution of the corpus is supported by grants GM102282 and LM010090 from the NIH; include the funding acknowledgment in your publications.
+The THYME corpus of notes is available to others involved in NLP research under a data use agreement (DUA) with Mayo Clinic. Please follow [the instructions for getting access to the THYME corpus on the THYME wiki](http://thyme.healthnlp.org/#Getting_access_to_the_THYME_corpus_and_gold_standard_annotations).
 
-The corpus is released to an established or junior NLP investigator, formally associated with an institution; thus it is not released to a student. However, all students working with the investigator can have full access to the corpus under the DUA of the investigator. The investigator is urged to have the students work on the corpus on workstations that stay within the laboratory space of the investigator.
+When using the corpus, please:
 
-The steps for obtaining a DUA are:
-
-1. Send an email to ClinicalNLP@mayo.edu indicating your interest in the THYME corpus. You will receive a form to fill out. Once that form is returned to ClinicalNLP@mayo.edu, your request will be passed on to the Mayo Clinic’s legal contracts group.
-2. Mayo Legal Contracts Office will send you a partially filled-out DUA for you to add information to, and for you to have signed by your site's official signatory.
-3. After you return the DUA to Mayo Clinic, Mayo Legal Contracts Office will complete the DUA and send you a copy of the fully executed DUA, and ClinicalNLP@mayo.edu will be copied on the email.
-4. A Mayo Clinic NLP investigator will arrange to talk with you.
-5. Once the DUA is complete and you have talked with a Mayo Clinic NLP investigator, ClinicalNLP@mayo.edu will send you instructions for obtaining the corpus via the secure downloading mechanism
-
-When using the corpus, please cite:
-
-Styler, William; Bethard, Steven; Finan, Sean; Palmer, Martha; Pradhan, Sameer; de Groen, Piet; Erickson, Brad; Miller, Timothy; Chen, Lin; Savova, Guergana K.; Pustejovsky, James. 2014. Temporal annotations in the clinical domain. Transactions of the Association for Computational Linguistics. http://www.transacl.org/wp-content/uploads/2014/04/47.pdf
+1. Include the Mayo Clinic in your acknowledgements
+2. Cite the article: William F. Styler IV, Steven Bethard, Sean Finan, Martha Palmer, Sameer Pradhan, Piet C. de Groen, Brad Erickson, Timothy Miller, Chen Lin, Guergana Savova, James Pustejovsky. Temporal Annotation in the Clinical Domain. Transactions of the Association for Computational Linguistics. Vol 2 (2014). https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/305
 
 ### About the annotations
 
