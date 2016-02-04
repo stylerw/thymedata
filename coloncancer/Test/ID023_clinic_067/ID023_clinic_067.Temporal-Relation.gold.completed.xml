@@ -1,4 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <data>
 <info>
   <savetime>2014-0630-12:45</savetime>
@@ -15,6 +16,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -30,6 +32,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -45,6 +48,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -60,6 +64,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -75,6 +80,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -90,6 +96,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -115,6 +122,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -130,6 +138,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -145,6 +154,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -160,6 +170,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -175,6 +186,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -190,6 +202,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -215,6 +228,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -230,6 +244,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -245,6 +260,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -260,6 +276,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -275,6 +292,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -290,6 +308,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -305,6 +324,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -320,6 +340,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -335,6 +356,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -350,6 +372,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -365,6 +388,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -380,6 +404,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -395,6 +420,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -410,6 +436,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -425,6 +452,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -440,6 +468,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -455,6 +484,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -470,6 +500,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -485,6 +516,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -500,6 +532,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -515,6 +548,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -530,6 +564,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -545,6 +580,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -560,6 +596,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -575,6 +612,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -590,6 +628,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -605,6 +644,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -620,6 +660,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -635,6 +676,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -650,6 +692,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -665,6 +708,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -680,6 +724,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -695,6 +740,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -710,6 +756,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -725,6 +772,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -740,6 +788,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -755,6 +804,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -765,11 +815,21 @@
 	</entity>
 
 	<entity>
+		<id>52@e@ID023_clinic_067@gold</id>
+		<span>40,50</span>
+		<type>DOCTIME</type>
+		<parentsType>TemporalEntities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
 		<id>53@e@ID023_clinic_067@gold</id>
 		<span>2966,2971</span>
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>LITTLE</Degree>
 			<Polarity>POS</Polarity>
@@ -785,6 +845,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -800,6 +861,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -815,6 +877,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -830,6 +893,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -845,6 +909,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -860,6 +925,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -875,6 +941,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -890,6 +957,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -905,6 +973,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -920,6 +989,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -935,6 +1005,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -950,6 +1021,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -965,6 +1037,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -980,6 +1053,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -995,6 +1069,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1010,6 +1085,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1025,6 +1101,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1040,6 +1117,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1055,6 +1133,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1070,6 +1149,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1085,6 +1165,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1100,6 +1181,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1115,6 +1197,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1130,6 +1213,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1145,6 +1229,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1160,6 +1245,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1175,6 +1261,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1190,6 +1277,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1205,6 +1293,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1220,6 +1309,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1235,6 +1325,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1250,6 +1341,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1265,6 +1357,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1280,6 +1373,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1295,6 +1389,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1310,6 +1405,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1325,6 +1421,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1340,6 +1437,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1355,6 +1453,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1370,6 +1469,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1385,6 +1485,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -1400,6 +1501,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1415,6 +1517,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1430,6 +1533,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1445,6 +1549,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1460,6 +1565,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1475,6 +1581,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1490,6 +1597,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1505,6 +1613,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1520,6 +1629,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1535,6 +1645,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1550,6 +1661,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1565,6 +1677,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1580,6 +1693,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1595,6 +1709,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1610,6 +1725,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1625,6 +1741,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1640,6 +1757,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -1655,6 +1773,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1670,6 +1789,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1685,6 +1805,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1700,6 +1821,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1715,6 +1837,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -1730,6 +1853,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1745,6 +1869,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1760,6 +1885,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1785,6 +1911,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1800,6 +1927,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1815,6 +1943,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1830,6 +1959,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1845,6 +1975,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1860,6 +1991,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1875,6 +2007,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1890,6 +2023,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1905,6 +2039,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1920,6 +2055,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1935,6 +2071,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1950,6 +2087,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1965,6 +2103,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1980,6 +2119,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -1995,6 +2135,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2010,6 +2151,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2025,6 +2167,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2040,6 +2183,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2055,6 +2199,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2070,6 +2215,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2085,6 +2231,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2100,6 +2247,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2115,6 +2263,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2130,6 +2279,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2145,6 +2295,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2160,6 +2311,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2175,6 +2327,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2190,6 +2343,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2205,6 +2359,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2220,6 +2375,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2235,6 +2391,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2250,6 +2407,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2265,6 +2423,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2280,6 +2439,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2295,6 +2455,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2310,6 +2471,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2325,6 +2487,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2340,6 +2503,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2355,6 +2519,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2370,6 +2535,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2385,6 +2551,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2400,6 +2567,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2445,6 +2613,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2470,6 +2639,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2485,6 +2655,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2520,6 +2691,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2595,6 +2767,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2640,6 +2813,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2665,6 +2839,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2680,6 +2855,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2695,6 +2871,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2710,6 +2887,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2725,6 +2903,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2740,6 +2919,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2755,6 +2935,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -2770,6 +2951,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2785,6 +2967,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2800,6 +2983,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2815,6 +2999,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2830,6 +3015,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE/OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2845,6 +3031,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2860,6 +3047,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2875,6 +3063,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2890,6 +3079,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2905,6 +3095,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2920,6 +3111,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2935,6 +3127,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2950,6 +3143,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2965,6 +3159,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -2980,6 +3175,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>NEG</Polarity>
@@ -2995,6 +3191,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3010,6 +3207,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3025,6 +3223,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3040,6 +3239,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>BEFORE</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3055,6 +3255,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3070,6 +3271,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>AFTER</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3085,6 +3287,7 @@
 		<type>EVENT</type>
 		<parentsType>TemporalEntities</parentsType>
 		<properties>
+			<DocTimeRel>OVERLAP</DocTimeRel>
 			<Type>N/A</Type>
 			<Degree>N/A</Degree>
 			<Polarity>POS</Polarity>
@@ -3094,5 +3297,1359 @@
 		</properties>
 	</entity>
 
-	</annotations>
+	<relation>
+		<id>1@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>157@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>205@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>2@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>147@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>152@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>3@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>160@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>162@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>4@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>200@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>92@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>5@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>200@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>105@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>6@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>200@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>115@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>7@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>98@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>82@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>8@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>77@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>122@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>9@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>127@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>125@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>10@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>91@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>8@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>11@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>7@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>6@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>12@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>14@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>6@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>13@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>15@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>14@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>167@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>118@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>15@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>118@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>11@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>16@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>114@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>116@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>17@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>114@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>16@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>18@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>114@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>111@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>19@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>108@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>113@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>20@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>108@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>17@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>21@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>28@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>22@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>35@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>38@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>23@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>53@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>140@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>24@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>51@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>49@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>25@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>101@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>133@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>26@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>106@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>151@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>27@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>106@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>65@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>28@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>95@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>61@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>29@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>104@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>62@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>30@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>93@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>68@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>31@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>99@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>137@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>32@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>164@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>192@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>33@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>208@e@ID023_clinic_067@gold</Source>
+			<Type>ENDS-ON</Type>
+			<Target>188@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>34@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>181@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>124@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>35@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>181@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>78@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>36@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>180@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>79@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>37@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>180@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>130@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>38@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>72@e@ID023_clinic_067@gold</Source>
+			<Type>BEGINS-ON</Type>
+			<Target>71@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>39@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>71@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>75@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>40@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>72@e@ID023_clinic_067@gold</Source>
+			<Type>BEGINS-ON</Type>
+			<Target>73@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>41@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>139@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>55@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>42@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>187@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>136@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>43@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>187@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>66@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>44@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>187@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>64@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>45@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>186@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>55@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>46@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>59@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>47@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>107@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>119@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>48@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>121@e@ID023_clinic_067@gold</Source>
+			<Type>ENDS-ON</Type>
+			<Target>96@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>49@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>91@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>3@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>50@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>120@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>96@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>51@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>130@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>81@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>52@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>130@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>80@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>53@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>163@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>38@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>54@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>130@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>79@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>55@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>58@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>56@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>56@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>82@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>76@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>57@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>60@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>58@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>91@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>4@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>59@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>173@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>145@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>60@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>19@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>61@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>50@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>62@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>173@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>204@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>63@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>174@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>154@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>64@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>175@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>84@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>65@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>174@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>158@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>66@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>176@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>88@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>67@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>175@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>90@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>68@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>91@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>9@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>69@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>177@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>87@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>70@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>49@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>71@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>180@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>80@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>72@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>180@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>81@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>73@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>25@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>74@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>22@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>75@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>182@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>123@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>76@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>51@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>77@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>171@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>210@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>78@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>170@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>199@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>79@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>184@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>188@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>80@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>110@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>81@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>45@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>82@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>44@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>83@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>150@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>84@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>40@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>85@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>102@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>86@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>39@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>87@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>47@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>88@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>46@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>89@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>42@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>90@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>41@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>91@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>127@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>76@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>92@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>108@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>93@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>43@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>94@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>125@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>76@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>95@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>57@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>96@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>141@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>186@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>97@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>55@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>141@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>98@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>116@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>99@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>114@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>100@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>31@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>101@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>165@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>157@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>102@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>202@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>162@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>103@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>132@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>162@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>104@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>160@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>168@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>105@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>98@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>127@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>106@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>30@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>107@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>165@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>205@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>108@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>53@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>109@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>111@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>110@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>32@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>111@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>16@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>112@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>140@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>113@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>33@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>114@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>144@e@ID023_clinic_067@gold</Source>
+			<Type>BEFORE</Type>
+			<Target>6@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>115@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>7@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>144@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>116@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>178@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>156@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>117@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>34@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>118@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>7@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>14@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>119@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>37@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>120@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>13@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>12@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>121@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>6@e@ID023_clinic_067@gold</Source>
+			<Type>BEGINS-ON</Type>
+			<Target>14@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>122@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>38@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+	<relation>
+		<id>123@r@ID023_clinic_067@gold</id>
+		<type>TLINK</type>
+		<parentsType>TemporalRelations</parentsType>
+		<properties>
+			<Source>27@e@ID023_clinic_067@gold</Source>
+			<Type>CONTAINS</Type>
+			<Target>29@e@ID023_clinic_067@gold</Target>
+		</properties>
+	</relation>
+
+
+</annotations>
 </data>
