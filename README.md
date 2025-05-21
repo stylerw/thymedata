@@ -25,7 +25,7 @@ The THYME corpus of notes is available to others involved in NLP research under 
 When using the corpus, please:
 
 1. Include the Mayo Clinic in your acknowledgements
-2. Cite the article: William F. Styler IV, Steven Bethard, Sean Finan, Martha Palmer, Sameer Pradhan, Piet C. de Groen, Brad Erickson, Timothy Miller, Chen Lin, Guergana Savova, James Pustejovsky. Temporal Annotation in the Clinical Domain. Transactions of the Association for Computational Linguistics. Vol 2 (2014). https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/305
+2. Cite the article: William F. Styler IV, Steven Bethard, Sean Finan, Martha Palmer, Sameer Pradhan, Piet C de Groen, Brad Erickson, Timothy Miller, Chen Lin, Guergana Savova, and James Pustejovsky. 2014. [Temporal Annotation in the Clinical Domain](https://aclanthology.org/Q14-1012/). Transactions of the Association for Computational Linguistics, 2:143–154.
 
 ### About the annotations
 
