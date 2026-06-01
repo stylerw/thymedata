@@ -20,7 +20,7 @@ For ease of distribution, the THYME corpus is distributed in two parts:
 ### Accessing the THYME Clinical Notes
 <a name="DUA"/>
 
-The THYME corpus of notes is available to others involved in NLP research under a data use agreement (DUA) with Mayo Clinic. Please follow [the instructions for getting access to the THYME corpus on the THYME wiki](http://thyme.healthnlp.org/#Getting_access_to_the_THYME_corpus_and_gold_standard_annotations).
+**Updated in June 2026:** The THYME corpus of notes is available to others involved in NLP research under a data use agreement (DUA) with Mayo Clinic, and the Health Natural Language Processing (hNLP) Center at Harvard. You can find out more about the corpus via <https://healthnlp.hms.harvard.edu/center/pages/data-sets.html>, and see [Join the hNLP Center](https://healthnlp.hms.harvard.edu/center/pages/join.html) for more details abut getting the required DUAs.
 
 When using the corpus, please:
 
